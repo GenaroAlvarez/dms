@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DMS</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="checkout_fragment_label">Checkout</string>
+    <string name="export_fragment_label">Export</string>
+    <string name="home_fragment_label">Home</string>
+    <string name="import_fragment_label">Import</string>
+    <string name="login_fragment_label">Login</string>
+    <string name="order_fragment_label">Order</string>
+    <string name="order_list_fragment_label">Order list</string>
+    <string name="preferences_fragment_label">Preferences</string>
+    <string name="product_list_fragment_label">Product list</string>
+    <string name="settings_fragment_label">Settings</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--    Login fragment-->
+    <string name="login_title_label">Login</string>
+    <string name="login_subtitle_label">Please enter your username and your password</string>
+    <string name="login_username_label">Username</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_button_label">Login</string>
+    <string name="login_alternative_login_label">or use one of your social profiles</string>
+    <string name="login_forgot_password_label">Forgot password?</string>
+    <string name="login_signup_label">Don\'t have an account? Sign up</string>
+
+
+</resources>
